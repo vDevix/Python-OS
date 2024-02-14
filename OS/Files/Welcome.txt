@@ -1,3 +1,0 @@
-This Operating System was made using Python by Devix.
-
-Github: https://github.com/vDevix
